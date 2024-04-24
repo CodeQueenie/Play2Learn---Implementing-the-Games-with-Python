@@ -1,5 +1,3 @@
-Certainly! Here's a revised version:
-
 ### Console Games Developed in Python 3.11
 
 **Games Included:**
