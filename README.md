@@ -1,4 +1,4 @@
-### Console Games Developed in Python 3.11
+### Console-based Python editions of the Play2Learn games, Anagram Hunt and Math Facts Practice, are available for play.
 
 **Games Included:**
 1. `anagram_hunt.py`
